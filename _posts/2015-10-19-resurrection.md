@@ -13,4 +13,6 @@ As the articles are not well preserved on [archive.org](https://web.archive.org/
 
 If any of you know "rf" or his whereabouts, please give me a shout on Bitcointalk or on reddit. I certainly hope that he is well. He was obviously smart and also very friendly when I had contact with him through email several month ago. Only things I know about him are what can be learned from [his GitHub account](https://github.com/royalfork) and from the [about-article](http://royalforkblog.github.io/2014/07/27/about/).
 
+Also give me a shout in case any references within the articles on this resurrected blog are broken so I can try and fix them.
+
 – SimonBelmond
