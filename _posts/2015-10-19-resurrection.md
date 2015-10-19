@@ -3,12 +3,14 @@ title: Resurrection
 image: /assets/imgs/thumbs/resurrection.png
 ---
 
-Because email encryption has been on the minds of many during the past year and a half, and GPG has recently released a "modern" version of their email encryption software supporting elliptic curve cryptography, I thought it would be fun to combine PGP encrypted email with the bitcoin blockchain.  
+Dear Visitor
 
-A couple things which I think are cool about this idea:
+I used to read [royalforkblog.com](http://www.royalforkblog.com) and reference many others to it. It was an excellent blog about Bitcoin and especially about some of the underlying principles. I am the type of learner that profits extensivley from the beautiful graphical style the blogger "rf" used to explain these rather complex matters. It was certainly my favorite Bitcoin blog and the [Article on Eliptic Curves Digital Signatures](http://royalforkblog.github.io/2014/09/04/ecc/) is a true masterpiece. have you ever though that you could never understand the math behind these signatures? Take an hour, read it and you might feel somewhat enlightned.
 
-- Public key exchange has been the achilles heel of many decentralized communications systems.  Using the bitcoin blockchain as a decentralized public key server largely solves this problem (and it's completely invisible to end users).
-- Btc-PGP combines payment and messaging into a single communications channel.  This could simplify marketplaces; a single email/transaction could order a product, specify a shipping address, include payment, and serve as it's own receipt.
-- Email could be sent with micropayments in an attempt to fight spam.  Everyone who messages you must pay $.05.  When replying, you send the micropayment back....or something like that (yes, I'm aware that [fighting spam is hard](https://craphound.com/spamsolutions.txt)).
+Unfortunatley it seems that some weeks ago the domain of the blog expired and and my recearch points to "rf" making his last changes to the site on 07-Apr-2015. All means to try and find out what happened to the owner failed [[1]](https://www.reddit.com/r/Bitcoin/comments/3lg786/where_did_httproyalforkblogcom_go_best_bitcoin/)[[2]](https://bitcointalk.org/index.php?topic=1212432.msg12721787)[[3]](https://bitcointalk.org/index.php?topic=1148538.msg12722136#msg12722136) but at least I found the [respective repository on GitHub](https://github.com/royalfork/royalfork.github.io). Unfortunatley the site can not be accessed through [royalfork.github.io](http://royalfork.github.io) as it redirects immediatley to the [royalforkblog.com](http://www.royalforkblog.com) domain which is now on sale for several hundred dollars.
 
-If you're interested in giving it a try, the following app will set you up with a testnet address and let you encrypt, decrypt, send, and receive PGP messages on the blockchain.  Message me at: "mnpPDMjPFWhdzCHmfGKVbA9ohLJF2b2Q7N" and let me know what you think :)
+As the articles are not well preserved on [archive.org](https://web.archive.org/web/20150214051116/http://www.royalforkblog.com/) I decided to unsolicitedly bring the articles back online here at [royalforkblog.github.io](http://royalforkblog.github.io) gerillia style.
+
+If any of you know the owner or his wherabouts, please give me a shout on Bitcointalk or on reddit. I certainly hope that he is well. He was obviously smart and also very friendly when I had contact with him through [rf@royalforkblog.com](mailto:rf@royalforkblog.com) several month ago. Needles to say that the email address no longer works.
+
+– SimonBelmond
