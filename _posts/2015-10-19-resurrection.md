@@ -9,8 +9,8 @@ I used to read [royalforkblog.com](http://www.royalforkblog.com) and reference m
 
 Unfortunately it seems that some weeks ago the domain of the blog expired and my research points to "rf" making his last changes to the site on 07-Apr-2015. All means to try and find out what happened to the owner failed [[1]](https://www.reddit.com/r/Bitcoin/comments/3lg786/where_did_httproyalforkblogcom_go_best_bitcoin/)[[2]](https://bitcointalk.org/index.php?topic=1212432.msg12721787)[[3]](https://bitcointalk.org/index.php?topic=1148538.msg12722136#msg12722136) but at least I found the [respective repository on GitHub](https://github.com/royalfork/royalfork.github.io). Unfortunately the site cannot be accessed through [royalfork.github.io](http://royalfork.github.io) as it redirects immediately to the [royalforkblog.com](http://www.royalforkblog.com) domain which is now on sale for several hundred dollars.
 
-As the articles are not well preserved on [archive.org](https://web.archive.org/web/20150214051116/http://www.royalforkblog.com/) I decided to unsolicitedly bring the articles back online here at [royalforkblog.github.io](http://royalforkblog.github.io) guerilla style.
+As the articles are not well preserved on [archive.org](https://web.archive.org/web/20150214051116/http://www.royalforkblog.com/) I decided to unsolicitedly bring the articles back online here at [royalforkblog.github.io](http://royalforkblog.github.io) guerilla style. I will leave everything else as it is on the site as is, neesless to say that contact details don't work any longer. 
 
-If any of you know the owner or his whereabouts, please give me a shout on Bitcointalk or on reddit. I certainly hope that he is well. He was obviously smart and also very friendly when I had contact with him through [rf@royalforkblog.com](mailto:rf@royalforkblog.com) several month ago. Needles to say that the email address no longer works.
+If any of you know "rf" or his whereabouts, please give me a shout on Bitcointalk or on reddit. I certainly hope that he is well. He was obviously smart and also very friendly when I had contact with him through email several month ago.
 
 – SimonBelmond
