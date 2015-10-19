@@ -13,4 +13,4 @@ A couple things which I think are cool about this idea:
 
 If you're interested in giving it a try, the following app will set you up with a testnet address and let you encrypt, decrypt, send, and receive PGP messages on the blockchain.  Message me at: "mnpPDMjPFWhdzCHmfGKVbA9ohLJF2b2Q7N" and let me know what you think :)
 
-[https://royalforkblog.github.io/resurrection](https://royalforkblog.github.io/resurrection)
+[https://royalfork.github.io/resurrection](https://royalfork.github.io/resurrection)
