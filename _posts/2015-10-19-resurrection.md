@@ -12,5 +12,3 @@ A couple things which I think are cool about this idea:
 - Email could be sent with micropayments in an attempt to fight spam.  Everyone who messages you must pay $.05.  When replying, you send the micropayment back....or something like that (yes, I'm aware that [fighting spam is hard](https://craphound.com/spamsolutions.txt)).
 
 If you're interested in giving it a try, the following app will set you up with a testnet address and let you encrypt, decrypt, send, and receive PGP messages on the blockchain.  Message me at: "mnpPDMjPFWhdzCHmfGKVbA9ohLJF2b2Q7N" and let me know what you think :)
-
-[https://royalfork.github.io/resurrection](https://royalfork.github.io/resurrection)
